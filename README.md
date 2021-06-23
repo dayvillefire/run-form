@@ -4,7 +4,7 @@ Made using [Scribus](https://www.scribus.net/) [1.5.6.1](https://w.scribus.net/w
 
 A few notes:
 
-* Requires Arial Bold and Arial Regular fonts.
+* Requires [Arial Bold and Arial Regular](https://www.cufonfonts.com/font/arial) fonts.
 * Additional iconography is included as source SVG files.
 * Target is half sheet for US letter.
 
